@@ -12,7 +12,7 @@
 <br />
 
 
-### Connect with me:
+### Connect with me ⚡:
 
 [<img align="left" alt="tanujvyas10" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/)
 [<img align="left" alt="tanujvyas10" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanuj-vyas-994b26151/)
