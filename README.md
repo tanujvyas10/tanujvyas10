@@ -6,7 +6,7 @@
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with any kind of MERN stack project
 - 🥅 2020 Goals: Improve my skills and spread peace
-- 🚀 One day I will see humans on Mars!
+- 🚀 One day I want to jog on Mars!
 - ⚡ Fun fact: I never put honey in my tea.
 
 <br />
