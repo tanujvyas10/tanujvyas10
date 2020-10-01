@@ -1,6 +1,6 @@
 ### Hi there, I'm ✨ [Tanuj Vyas](https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/) ✨  👋 
 
-## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! <img align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="Programmation" width="200" />
 - 👨🏻‍💻 Currently a final year B.tech Computer science student.
 - 🔭 I’m currently working on my development skills and competitive skills!
 - 💡 I love innovation and new technologies
