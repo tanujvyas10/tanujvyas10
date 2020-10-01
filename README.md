@@ -1,4 +1,4 @@
-### Hi there, I'm ✨ [Tanuj Vyas][https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/] ✨  👋 
+### Hi there, I'm ✨ [Tanuj Vyas](https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/) ✨  👋 
 
 ## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Currently a final year B.tech Computer science student.
@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tanujvyas10" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/]
-[<img align="left" alt="tanujvyas10" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/tanuj-vyas-994b26151/]
+[<img align="left" alt="tanujvyas10" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/)
+[<img align="left" alt="tanujvyas10" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanuj-vyas-994b26151/)
 
 <br />
 
