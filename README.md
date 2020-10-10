@@ -13,9 +13,7 @@
 
 
 ### Connect with me ⚡:
-<a href="tanujvyas10@gmail.com">
-  <img align="center" alt="tanujvyas10's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+[<img align="left" alt="tanujvyas10's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:tanujvyas10@gmail.com)
 [<img align="left" alt="tanujvyas10's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/)
 [<img align="left" alt="tanujvyas10's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanuj-vyas-994b26151/)
 
