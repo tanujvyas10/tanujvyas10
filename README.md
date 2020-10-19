@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanujvyas10.tanujvyas10)
 ## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! <img align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="Programmation" width="200" />
 - 👨🏻‍💻 Currently a final year B.tech Computer science student.
-- 🔭 I’m currently working on my development skills and competitive skills!
+- 🔭 I’m currently working on my software development skills and competitive programming skills!
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with any kind of MERN stack project
 - 🥅 2020 Goals: Improve my skills and spread peace
