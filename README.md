@@ -17,20 +17,6 @@
 [<img align="left" alt="tanujvyas10's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/)
 [<img align="left" alt="tanujvyas10's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanuj-vyas-994b26151/)
 
-<br />
-
-### Some Languages and Tools:
-
-<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
-
-</p>
-
 <br /><br />
 
 
