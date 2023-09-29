@@ -22,8 +22,6 @@
 
 ---
 
-<img alt="Tanuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanujvyas10&show_icons=true&hide_border=true" />
-
 <img alt="tanujvyas10's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujvyas10&layout=compact&hide_border=true" />
 
 ---
