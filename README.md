@@ -1,11 +1,11 @@
 ### Hi there, I'm ✨ [Tanuj Vyas](https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/) ✨  👋 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanujvyas10.tanujvyas10)
 ## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! <img align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="Programmation" width="200" />
-- 👨🏻‍💻 Currently a final year B.tech Computer science student.
-- 🔭 I’m currently working on my software development skills and competitive programming skills!
+- 👨🏻‍💻 Currently a fullstack developer at Fynd (Now acquired by Reliance Industries).
+- 🔭 Currently working on my software development and leadership skills!
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with any kind of software development project.
-- 🥅 2021 Goals: Improve my skills and spread peace
+- 🥅 2023 Goals: Rise and Shine
 - 🚀 One day I want to jog on Mars!
 - ⚡ Fun fact: I never put honey in my tea.I put honey in my cup.
 
